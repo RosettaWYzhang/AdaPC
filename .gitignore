@@ -1,0 +1,8 @@
+__pycache__
+log
+data
+*.sh
+*.out
+*.err
+
+
